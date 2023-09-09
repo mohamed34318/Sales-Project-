@@ -14,22 +14,22 @@
 </P>
 <p>
   <h3>after that we must understanding columns so these are columns in my dataset : </h3>
-  - Order_ID : this is the ID of each customer make order
-  -	Product : the columns have all products that requested from customer
-  - Quantity Ordered : the quantity that customer request it
-  - Order Date : the date and time that customer make order in it
-  - Year : the year of making each order
-  - Month Name  : the month of make each order
-  - Month : here we numbered each month from 1 - 12 from ( Jan - Dec )
-  - Week Day : here the order requested in a specific day ( here days are numbered from 1 - 7 from saterday to Friday )
-  - Name Week Day : here you will find the name of day ( saterday - Friday )
-  - Days : the day is exracted from datetime to know which day of month this order is requested
-  - Hours	: the time of order requested
-  - Purchase Address Streets : the address of the customer that make order
-  - City : here the city that customer live in it 
-  - State : here the state that customer live in it 
-  - Zip Code : here the zip code of each customer ( is extracted from the address )
-  - Price Each : here Sales of each customer 
+ <P> - Order_ID : this is the ID of each customer make order</P>
+ <P> -	Product : the columns have all products that requested from customer</P>
+ <P> - Quantity Ordered : the quantity that customer request it</P>
+ <P> - Order Date : the date and time that customer make order in it</P>
+ <P> - Year : the year of making each order</P>
+ <P> - Month Name  : the month of make each order</P>
+ <P> - Month : here we numbered each month from 1 - 12 from ( Jan - Dec )</P>
+ <P> - Week Day : here the order requested in a specific day ( here days are numbered from 1 - 7 from saterday to Friday )</P>
+ <P> - Name Week Day : here you will find the name of day ( saterday - Friday )</P>
+ <P> - Days : the day is exracted from datetime to know which day of month this order is requested</P>
+ <P> - Hours	: the time of order requested</P>
+ <P> - Purchase Address Streets : the address of the customer that make order</P>
+ <P> - City : here the city that customer live in it </P>
+ <P> - State : here the state that customer live in it </P>
+<P>  - Zip Code : here the zip code of each customer ( is extracted from the address )</P>
+<P>  - Price Each : here Sales of each customer </P>
 </p>
 <p>
 in the project we have dataset stored in execl file and after doing some analysis and cleaning and make KPI to extract some result i found some solutions that will be useful ,
