@@ -2,15 +2,15 @@
 <h4>this project is the first task of MeriSkill data analyst internship</h4>
 <P>
   <h3>business Questions & KPIS :</h3> 
-Q1 ) - Top 5 Common Product have high Sales and Have Low Sale ? 
-Q2 ) - Monthly Sales Grow in 2019 & 2020 ?
-Q3 ) - The Most 5 Common Days  have high Quantity Ordered in 2019 & 2020 ?
-Q4 ) - what about the  most Hour Customers make orders  ?
-Q5 ) - what are the most and lowest products that have total orders ?
-Q6 ) - which state have high quantity order & high Sales rate ?
-Q7 ) - Tell me top Address street the customers live in it to get order ?
-Q8 ) - What is the Zip code that have high sales ?
-Q9 ) - what is the number of orders placed with a specific period time ( Daily - monthly - Yearly )  ?
+<P>Q1 ) - Top 5 Common Product have high Sales and Have Low Sale ? </P>
+<P>Q2 ) - Monthly Sales Grow in 2019 & 2020 ?</P>
+<P>Q3 ) - The Most 5 Common Days  have high Quantity Ordered in 2019 & 2020 ?</P>
+<P>Q4 ) - what about the  most Hour Customers make orders  ?</P>
+<P>Q5 ) - what are the most and lowest products that have total orders ?</P>
+<P>Q6 ) - which state have high quantity order & high Sales rate ?</P>
+<P>Q7 ) - Tell me top Address street the customers live in it to get order ?</P>
+<P>Q8 ) - What is the Zip code that have high sales ?</P>
+<P>Q9 ) - what is the number of orders placed with a specific period time ( Daily - monthly - Yearly )  ?</P>
 </P>
 <p>
   <h3>after that we must understanding columns so these are columns in my dataset : </h3>
