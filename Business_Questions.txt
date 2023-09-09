@@ -1,0 +1,9 @@
+Q1 ) - Top 5 Common Product have high Sales and Have Low Sale ?
+Q2 ) - Monthly Sales Grow in 2019 & 2020
+Q3 ) - The Most 5 Common Days  have high Quantity Ordered in 2019 & 2020
+Q4 ) - what about the  most Hour Customers make orders  
+Q5 ) - what are the most and lowest products that have total orders
+Q6 ) - which state have high quantity order & high Sales rate
+Q7 ) - Tell me top Address street the customers live in it to get order 
+Q8 ) - What is the Zip code that have high sales 
+Q9 ) - what is the number of orders placed with a specific period time ( Daily - monthly - Yearly )
